@@ -1,4 +1,4 @@
-Created by Emily MacQuarrie
+
 
 FILES
 Race Data Entry - CRDT.csv
@@ -10,4 +10,7 @@ Provisional_COVID-19_Death_Countys_by_County_and_Race.csv
     - CSV file containing data describing number of deaths by county.
     Numbers are broken by ethnicity groups.
     - Data is current as of 7/10/20.
-    
+
+
+NOTES
+For questions or comments, contact Emily MacQuarrie (emilymacq@gmail.com)
