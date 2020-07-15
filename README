@@ -1,2 +1,8 @@
 Created by Emily MacQuarrie
 
+FILES
+Race Data Entry - CRDT.csv
+    - CSV file containing data describing number of cases and deaths by 
+    each enthincity grouping
+    - Data is current as of 7/10/20.
+    
