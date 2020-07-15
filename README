@@ -3,6 +3,11 @@ Created by Emily MacQuarrie
 FILES
 Race Data Entry - CRDT.csv
     - CSV file containing data describing number of cases and deaths by 
-    each enthincity grouping
+    each enthnicity grouping
+    - Data is current as of 7/10/20.
+
+Provisional_COVID-19_Death_Countys_by_County_and_Race.csv
+    - CSV file containing data describing number of deaths by county.
+    Numbers are broken by ethnicity groups.
     - Data is current as of 7/10/20.
     
