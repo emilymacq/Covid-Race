@@ -1,4 +1,6 @@
-
+DESCRIPTION
+This project aims to analyze COVID-19 data to better understand the relationship
+between cases/deaths and race.  Analysis is state-level.
 
 FILES
 Race Data Entry - CRDT.csv
