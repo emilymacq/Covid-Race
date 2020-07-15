@@ -19,6 +19,12 @@ Project was created by Emily MacQuarrie on 7/10/20.
   
 ### Covid Race Visualizations.ipynb
     - Python notebook with data visualizations describing race breakdown.
+    
+## RESOURCES
+- The Covid Tracking Project
+https://covidtracking.com/race/about#download-the-data
+- Centers for Disease Control and Prevention
+https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-County-and-Ra/k8wy-p9cg
 
 
 ## NOTES
